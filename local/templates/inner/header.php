@@ -110,6 +110,8 @@ IncludeTemplateLangFile(__FILE__);
             <li><a href="">Каталог</a></li>
             <li><a href="">Мебель</a></li>
             <li><a href="">Выставки и события</a></li>
+
+
         </ul>
         <div class="clearboth"></div>
     </div>
